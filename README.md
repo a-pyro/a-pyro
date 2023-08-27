@@ -18,7 +18,7 @@ Hi 👋 My name is Ardi Germenji
 Frontend Web Developer
 ----------------------
 
-* 🌍  I'm based in Toronto, Ontario
+* 🌍  I'm based in Italy
 * ✉️  You can contact me at [ardi.germenji@gmail.com](mailto:ardi.germenji@gmail.com)
 
 ### Skills

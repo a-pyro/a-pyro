@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Ardi Germenji
 ==============================
 
-Frontend Web Developer
+Frontend Engineer
 ----------------------
 
 * 🌍  I'm based in Italy

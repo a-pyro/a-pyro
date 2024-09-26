@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 Hi 👋 My name is Ardi Germenji
 ==============================
 
-Frontend Engineer
-----------------------
+Frontend
+ <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="40" stroke="blue" stroke-width="4" fill="lightblue">
+    <animate attributeName="r" from="40" to="20" dur="1s" repeatCount="indefinite" />
+  </circle>
+</svg>
+
+
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [ardi.germenji@gmail.com](mailto:ardi.germenji@gmail.com)
